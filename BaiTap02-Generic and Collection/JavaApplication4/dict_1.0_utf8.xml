@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<number>50</number>
+	<word>
+		<en>home</en>
+		<vi>nhà</vi>
+	</word>
+	<word>
+		<en>litle</en>
+		<vi>nhỏ</vi>
+	</word>
+	<word>
+		<en>boy</en>
+		<vi>cậu bé</vi>
+	</word>
+	<word>
+		<en>girl</en>
+		<vi>gái</vi>
+	</word>
+	<word>
+		<en>money</en>
+		<vi>tiền</vi>
+	</word>
+	<word>
+		<en>mouse</en>
+		<vi>chuột</vi>
+	</word>
+	<word>
+		<en>key</en>
+		<vi>khóa</vi>
+	</word>
+	<word>
+		<en>door</en>
+		<vi>cửa</vi>
+	</word>
+	<word>
+		<en>book</en>
+		<vi>vở</vi>
+	</word>
+	<word>
+		<en>clean</en>
+		<vi>dọn dẹp</vi>
+	</word>
+	<word>
+		<en>fun</en>
+		<vi>vui vẻ</vi>
+	</word>
+	<word>
+		<en>happy</en>
+		<vi>hạnh phúc</vi>
+	</word>
+	<word>
+		<en>name</en>
+		<vi>tên</vi>
+	</word>
+	<word>
+		<en>new</en>
+		<vi>mới</vi>
+	</word>
+	<word>
+		<en>electronic</en>
+		<vi>điện</vi>
+	</word>
+	<word>
+		<en>phone</en>
+		<vi>điện thoại</vi>
+	</word>
+	<word>
+		<en>fat</en>
+		<vi>mập</vi>
+	</word>
+	<word>
+		<en>water</en>
+		<vi>nước</vi>
+	</word>
+	<word>
+		<en>caculator</en>
+		<vi>máy tính bỏ túi</vi>
+	</word>
+	<word>
+		<en>bear</en>
+		<vi>gấu</vi>
+	</word>
+	<word>
+		<en>cat</en>
+		<vi>mèo</vi>
+	</word>
+	<word>
+		<en>dog</en>
+		<vi>chó</vi>
+	</word>
+	<word>
+		<en>bag</en>
+		<vi>túi</vi>
+	</word>
+	<word>
+		<en>maximum</en>
+		<vi>lớn nhất</vi>
+	</word>
+	<word>
+		<en>red</en>
+		<vi>đỏ</vi>
+	</word>
+	<word>
+		<en>apple</en>
+		<vi>trái táo</vi>
+	</word>
+	<word>
+		<en>beautiful</en>
+		<vi>đẹp</vi>
+	</word>
+	<word>
+		<en>finger</en>
+		<vi>ngón tay</vi>
+	</word>
+	<word>
+		<en>tiger</en>
+		<vi>con hổ</vi>
+	</word>
+	<word>
+		<en>next</en>
+		<vi>tiếp theo</vi>
+	</word>
+	<word>
+		<en>dragon</en>
+		<vi>con rồng</vi>
+	</word>
+	<word>
+		<en>paper</en>
+		<vi>giấy</vi>
+	</word>
+	<word>
+		<en>learn</en>
+		<vi>học hỏi</vi>
+	</word>
+	<word>
+		<en>shoe</en>
+		<vi>giày</vi>
+	</word>
+	<word>
+		<en>pen</en>
+		<vi>cây bút</vi>
+	</word>
+	<word>
+		<en>ten</en>
+		<vi>số mười</vi>
+	</word>
+	<word>
+		<en>gas</en>
+		<vi>ga</vi>
+	</word>
+	<word>
+		<en>global</en>
+		<vi>toàn cầu</vi>
+	</word>
+	<word>
+		<en>good</en>
+		<vi>tốt</vi>
+	</word>
+	<word>
+		<en>country</en>
+		<vi>đất nước</vi>
+	</word>
+	<word>
+		<en>code</en>
+		<vi>đoạn mã</vi>
+	</word>
+	<word>
+		<en>number</en>
+		<vi>con số</vi>
+	</word>
+	<word>
+		<en>home</en>
+		<vi>nhà</vi>
+	</word>
+	<word>
+		<en>hello</en>
+		<vi>xin chào</vi>
+	</word>
+	<word>
+		<en>window</en>
+		<vi>cửa sổ</vi>
+	</word>
+	<word>
+		<en>standard</en>
+		<vi>tiêu chuẩn</vi>
+	</word>
+	<word>
+		<en>class</en>
+		<vi>lớp học</vi>
+	</word>
+	<word>
+		<en>student</en>
+		<vi>học sinh</vi>
+	</word>
+	<word>
+		<en>style</en>
+		<vi>phong cách</vi>
+	</word>
+	<word>
+		<en>bird</en>
+		<vi>con chim</vi>
+	</word>
+</dictionary>

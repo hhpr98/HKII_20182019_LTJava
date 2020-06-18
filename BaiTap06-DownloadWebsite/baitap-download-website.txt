@@ -1,0 +1,16 @@
+﻿Viết chương trình download một website để hỗ trợ duyệt offline website đó: Nhập vào link trang chủ của một website, download tất cả các trang web trong website đó về và hỗ trợ duyệt offline (không có internet vẫn xem được nội dung của website này).
+
+Các yêu cầu cụ thể:
+  - Hỗ trợ multithread để chương trình có thể có nhiều thread download cùng một lúc, giúp cho quá trình download website được nhanh chóng.
+  - Download luôn cả hình ảnh của website đó (video và streaming không cần lấy về).
+  - Chỉnh sửa lại link nếu cần thiết để hỗ trợ duyệt offline
+  - Không download các liên kết ra ngoài website.
+(Lưu ý: quá trình download một website sẽ được thực hiện nhiều cấp, từ trang chủ lấy các link trong website đó, sau đó lại vào các link này lấy tiếp các link khác, quá trình này sẽ lặp lại đến khi đã lấy đủ hết các link trong website đó hoặc không còn link mới).
+
+Hạn nộp: Ngày 31/05/2019.
+
+Nội dung nộp:
+   - Source code.
+   - Hướng dẫn sử dụng
+   - File jar thực thi
+
